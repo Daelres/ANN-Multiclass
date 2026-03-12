@@ -30,12 +30,6 @@ venv/
 .venv/
 ENV/
 
-# Artefactos del modelo (generados por el notebook)
-*.keras
-*.jb
-*.h5
-*.model
-
 # Datos
 *.xlsx
 *.csv
